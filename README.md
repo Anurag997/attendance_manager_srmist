@@ -33,4 +33,4 @@ You may also see any lint errors in the console.
 
 
 
-# JODD!! You can now manage your attendance easily
+You can now manage your attendance easily
